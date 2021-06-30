@@ -2,7 +2,7 @@
     "name":"DHL Parcel UK CFML",
     "version":"0.1.1",
     "author":"Gary Stanton",
-    "location":"GaryStanton/dhl-parcel-uk-cfml#v0.1.0",
+    "location":"GaryStanton/dhl-parcel-uk-cfml#v0.1.1",
     "createPackageDirectory" : "true",
     "packageDirectory" : "DHLParcelUKCFML",
     "repository":{
